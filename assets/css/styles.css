@@ -653,7 +653,6 @@ input[type="number"] {
 {
   justify-self: center;
   cursor: pointer;
-  background-color: red!important;
 }
 
 .contact__message
